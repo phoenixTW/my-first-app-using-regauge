@@ -12,19 +12,8 @@
 }
 
 .app__content {
-  margin-top: 180px;
+  width: 60%;
   display: flex;
-}
-
-.logo__wrapper {
-  width: 30%;
-  height: 30%;
   margin: 0 auto;
-}
-
-.app__footer {
-  text-align: center;
-  a {
-    font-weight: 600;
-  }
+  margin-top: 180px;
 }
