@@ -48,7 +48,7 @@
         "enzyme-adapter-react-16": "^1.13.0",
         "enzyme-to-json": "^3.3.5",
         "jest": "^24.8.0",
-        "stylelint": "^10.0.1",
+        "stylelint": "^15.10.1",
         "stylelint-config-recommended": "^2.2.0"
     },
     "dependencies": {
